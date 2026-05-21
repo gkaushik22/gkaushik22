@@ -38,13 +38,14 @@ A comprehensive ML project exploring various algorithms and techniques for predi
 
 ### 2. **E-Commerce Grocery Store Platform** 🛒
 A full-stack web application built as a team project for an online grocery marketplace.
-- **Tech Stack:** JavaScript, SQL, Database Design
+- **Tech Stack:** PHP, SQL, Oracle Database with App Builder Design
 - **Key Achievements:** Database optimization, user-friendly interface, inventory management
 - **Highlights:** Collaborated with team, managed database queries, improved system efficiency
 - **GitHub:** [View Repository](https://github.com/basukalakrisha/TeamProject-L5_CleckBasket_G13)
 
 ### 3. **ScholarAI** 🎓
 A production-level project demonstrating real-world application development and problem-solving.
+- **Tech Stack:** Python, Flask Framework, HTML, CSS, JavaScript, Google Colab for training ML models.
 - **Key Takeaway:** End-to-end project execution from concept to deployment
 - **Note:** Hosted on institutional GitHub account
 
