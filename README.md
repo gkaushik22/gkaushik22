@@ -43,7 +43,7 @@ A full-stack web application built as a team project for an online grocery marke
 - **Highlights:** Collaborated with team, managed database queries, improved system efficiency
 - **GitHub:** [View Repository](https://github.com/basukalakrisha/TeamProject-L5_CleckBasket_G13)
 
-### 3. **ScholarAI- AI-driven Early Warning System For Students at Academic Risk and Personalized Support** 🎓
+### 3. **ScholarAI- AI Driven Early Warning System For Students at Academic Risk and Personalized Support** 🎓
 A production-level project demonstrating real-world application development and problem-solving.
 - **Tech Stack:** Python, Flask Framework, HTML, CSS, JavaScript, Google Colab for training ML models.
 - **Key Takeaway:** End-to-end project execution from concept to deployment
