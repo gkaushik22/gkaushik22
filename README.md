@@ -32,7 +32,7 @@ I believe in the power of data to transform the future of IT. With a strong foun
 
 ### 1. **Applied Machine Learning** 🤖
 A comprehensive ML project exploring various algorithms and techniques for predictive modeling and data analysis using Python and R.
-- **Tech Stack:** Python, R, Scikit-learn, Pandas, NumPy
+- **Tech Stack:** R language, R studio
 - **Key Focus:** Model evaluation, feature engineering, statistical analysis
 - **GitHub:** [View Repository](https://github.com/gkaushik22/Applied-Machine-Learning)
 
