@@ -34,14 +34,14 @@ I believe in the power of data to transform the future of IT. With a strong foun
 A comprehensive ML project exploring various algorithms and techniques for predictive modeling and data analysis using Python and R.
 - **Tech Stack:** Python, R, Scikit-learn, Pandas, NumPy
 - **Key Focus:** Model evaluation, feature engineering, statistical analysis
-- **GitHub:** [View Repository](#)
+- **GitHub:** [View Repository](https://github.com/gkaushik22/Applied-Machine-Learning)
 
 ### 2. **E-Commerce Grocery Store Platform** 🛒
 A full-stack web application built as a team project for an online grocery marketplace.
 - **Tech Stack:** JavaScript, SQL, Database Design
 - **Key Achievements:** Database optimization, user-friendly interface, inventory management
 - **Highlights:** Collaborated with team, managed database queries, improved system efficiency
-- **GitHub:** [View Repository](#)
+- **GitHub:** [View Repository](https://github.com/basukalakrisha/TeamProject-L5_CleckBasket_G13)
 
 ### 3. **ScholarAI** 🎓
 A production-level project demonstrating real-world application development and problem-solving.
