@@ -30,13 +30,13 @@ I believe in the power of data to transform the future of IT. With a strong foun
 
 ## 📁 Featured Projects
 
-### 1. **Applied Machine Learning** 🤖
+### 1. **Applied Machine Learning- Bank Marketing Campaign** 🤖
 A comprehensive ML project exploring various algorithms and techniques for predictive modeling and data analysis using Python and R.
 - **Tech Stack:** R language, R studio
 - **Key Focus:** Model evaluation, feature engineering, statistical analysis
 - **GitHub:** [View Repository](https://github.com/gkaushik22/Applied-Machine-Learning)
 
-### 2. **E-Commerce Grocery Store Platform** 🛒
+### 2. **E-Commerce Grocery Store Platform- CLECKBASKET** 🛒
 A full-stack web application built as a team project for an online grocery marketplace.
 - **Tech Stack:** PHP, SQL, Oracle Database with App Builder Design
 - **Key Achievements:** Database optimization, user-friendly interface, inventory management
